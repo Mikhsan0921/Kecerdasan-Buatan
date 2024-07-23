@@ -1,2 +1,0 @@
-
-# Latih model 
